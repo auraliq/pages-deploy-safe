@@ -1,0 +1,4 @@
+__pycache__/
+.pages-deploy-base.json
+*.pyc
+.DS_Store
